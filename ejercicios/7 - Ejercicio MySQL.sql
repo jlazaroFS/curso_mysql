@@ -3,7 +3,7 @@
     
     Programa de Formación de Becarios de Future Space (febrero 2024)
     
-    Ejercicio MySQL 6: BD BP-Consulta codificada
+    Ejercicio MySQL 7: BD BP-Función
 */
 
 USE jlazaro;
