@@ -14,5 +14,5 @@ FROM
 LEFT JOIN	-- Así mostramos también los autores con 0 libros
 	libros ON libros.autor_id = autores.id
 GROUP BY
-	autor_id
+	autores.id
 ;
